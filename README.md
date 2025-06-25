@@ -43,8 +43,6 @@ To get past this issue I came up with implementing a condtion system to only upd
   + DHT
  
 
-#System Features
+# System Features
 
 
-
-switch facing left = light/day theme; switch facing right = dark/night theme
