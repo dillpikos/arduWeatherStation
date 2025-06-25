@@ -37,7 +37,7 @@ Software Related:
 + Arduino IDE
 + C++ (custom functions for optimizing display logic (only updating stuff when needed), managing toggle switch states, and for drawing UI upon start of system to correspond with initial switch state)
 + Various libraries for compenets:
-'+ Adafruit GFX
++- Adafruit GFX
 
 
 
