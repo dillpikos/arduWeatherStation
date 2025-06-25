@@ -57,7 +57,7 @@ To get past this issue I came up with implementing a condtion system to only upd
 + Afternoon Icon: 4 PM - 6 PM
 + Evening/Night Icon: 7 PM - 5 AM
 
-#Brief Notes
+# Brief Notes
 After making the initial prototype on a breadboard I decided to transfer the circuit onto a perfboard so this system could be more permanent and portable
 I carefully placed all sensor and wiring to minimize clutter and to maintain good power distribution.
 
