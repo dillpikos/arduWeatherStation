@@ -1,4 +1,12 @@
-# arduWeatherStation
+# Portable arduWeatherStation
+A portable embedded system project made using Arduino Nano, sensors, and TFT color display
+- created by Bryan Diaz
+
+
+
+# Project Overview
+
+
 Portable weather station prototype made using Arduino Nano along with
 - MQ-135 air quality sensor
 - DHT-11 tempature and humidity sensor
