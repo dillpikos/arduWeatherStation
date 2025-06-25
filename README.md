@@ -1,6 +1,6 @@
 # Portable arduWeatherStation
 A portable embedded system project made using Arduino Nano, sensors, and TFT color display
-- created by Bryan Diaz
+created by Bryan Diaz
 
 
 
