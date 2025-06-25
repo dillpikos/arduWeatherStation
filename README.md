@@ -44,5 +44,19 @@ To get past this issue I came up with implementing a condtion system to only upd
  
 
 # System Features
+## Displays Current:
++ AM/PM formatted time (PST)
++ Day of week
++ Date (MM/DD/YYYY)
++ Temperature (F|C)
++ Humidity (%)
++ General air quality
+
+## Time Responsive Icons 
++ Morning Icon: 6 AM - 3 PM
++ Afternoon Icon: 4 PM - 6 PM
++ Evening/Night Icon: 7 PM - 5 AM
+
+  
 
 
