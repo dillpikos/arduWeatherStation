@@ -5,6 +5,15 @@ create by Bryan Diaz | Focus: Embedded systems and hardware
 
 
 # Project Overview
+Fully functional prototype of a portable weather station that integrates the use of multiple sensors, real time data visualization, and user interaction.
+</br>
+This system is designed to be both efficient in performance along with visual output and to be compact and portable
+</br>
+I built this to explore various concepts of embedded systems, I wanted more expirence in data visualization on a display and power efficient programming on a microcontroller
+
+
+
+
 
 
 Portable weather station prototype made using Arduino Nano along with
