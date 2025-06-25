@@ -21,7 +21,7 @@ TFT displays tend to run into the issue of flickering whenever updating data qui
 To get past this issue I came up with implementing a condtion system to only update data when detecting change in sensor values instead of updating it constantly in the loop function which better optimized the system as well
 
 #Technologies and Components
-Hardware Related:
+##Hardware Related:
 + Perfboard assembly
 + Soldering
 + Arduino Nano
@@ -33,11 +33,17 @@ Hardware Related:
 + Power bank (5000 MaH)
 + 6 in USB to Mini Usb cable
 
-Software Related:
+##Software Related:
 + Arduino IDE
 + C++ (custom functions for optimizing display logic (only updating stuff when needed), managing toggle switch states, and for drawing UI upon start of system to correspond with initial switch state)
 + Various libraries for compenets:
-+- Adafruit GFX
+  + Adafruit GFX
+  + Adafruit ST7735
+  + RTCLib
+  + DHT
+ 
+
+#System Features
 
 
 
