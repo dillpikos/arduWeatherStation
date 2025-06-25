@@ -18,7 +18,29 @@ along with a toggle switch that the user can flip to toggle a light and dark mod
 </br>
 TFT displays tend to run into the issue of flickering whenever updating data quickly on a slower microcontroller like the Ardunio Nano, when working on thsi project I ran into the issue of the display constantly flickering when updating the data
 </br>
-To get past this issue I came up with implementing a condtion system to only update data when detecting change in sensor values instead of updating it constantly in the loop function
+To get past this issue I came up with implementing a condtion system to only update data when detecting change in sensor values instead of updating it constantly in the loop function which better optimized the system as well
+
+#Technologies and Components
+Hardware Related:
++ Perfboard assembly
++ Soldering
++ Arduino Nano
++ MQ-135 (air quality sensor)
++ DHT-11 (tempature and humidity sensor)
++ DS3231 real time clock module
++ ST7735 1.44" tft lcd display (operates using SPI)
++ Toggle Switch (to toggle between theme)
++ Power bank (5000 MaH)
++ 6 in USB to Mini Usb cable
+
+Software Related:
++ Arduino IDE
++ C++ (custom functions for optimizing display logic (only updating stuff when needed), managing toggle switch states, and for drawing UI upon start of system to correspond with initial switch state)
++ Various libraries for compenets:
+'+ Adafruit GFX
+
+
+
 
 
 
