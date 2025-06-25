@@ -42,7 +42,7 @@ To get past this issue I came up with implementing a condtion system to only upd
   + RTCLib
   + DHT
  
-## Wiring:
+## Wire Set Up:
 + *[Wiring Schematic](arduWeatherStationDiagram.png)*
  
 
