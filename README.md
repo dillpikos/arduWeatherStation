@@ -68,6 +68,8 @@ After making the initial prototype on a breadboard I decided to transfer the cir
 I carefully placed all sensor and wiring to minimize clutter and to maintain good power distribution.
 </br>
 
+# SYSTEM DEMO
+
 
   
 
