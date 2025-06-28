@@ -18,7 +18,7 @@ along with a toggle switch that the user can flip to toggle a light and dark mod
 </br>
 TFT displays tend to run into the issue of flickering whenever updating data quickly on a slower microcontroller like the Ardunio Nano, when working on thsi project I ran into the issue of the display constantly flickering when updating the data
 </br>
-To get past this issue I came up with implementing a condtion system to only update data when detecting change in sensor values instead of updating it constantly in the loop function which better optimized the system as well
+To get past this issue I came up with implementing a condtional system to only update data when detecting change in sensor values instead of updating it constantly in the loop function which better optimized the system as well
 
 # Technologies and Components
 ## Hardware Related:
