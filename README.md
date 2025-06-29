@@ -69,7 +69,13 @@ I carefully placed all sensor and wiring to minimize clutter and to maintain goo
 </br>
 
 # SYSTEM DEMO
-https://github.com/user-attachments/assets/4689c841-4f9b-4afc-9341-6eaac2bd7e31
+
+
+https://github.com/user-attachments/assets/00b2977f-2681-413b-b326-3bab5543b804
+
+
+
+
 
 
 
