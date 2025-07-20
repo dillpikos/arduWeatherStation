@@ -1,7 +1,7 @@
 # Portable Weather Station (prototype)
 An Arduino Nano based embedded system for real time weather monitoring with responsive UI
 </br>
-*create by Bryan Diaz | Focus: Embedded Systems and Hardware*
+*created by Bryan Diaz | Focus: Embedded Systems and Hardware*
 
 
 # Project Overview
